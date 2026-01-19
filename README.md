@@ -1,9 +1,13 @@
 # olist_dashboard
 KPIs covered:
--Orders distribution on the basis of whether completed, invoiced, shipped,etc.
+-Orders distribution on the basis of whether completed, invoiced, shipped,etc. 
+
 -Revenue from completed orders
+
 -Purchase Repeat Rate
+
 -Average Order Value
+
 -Revenue distribution state wise to analyse which states to focus on and what marketing campaigns to run
 
 screenshot of the dashboard 
